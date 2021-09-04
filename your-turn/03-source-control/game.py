@@ -6,6 +6,7 @@ def main(number):
     game of hi - lo
     for Michael's Pycharm course
     4 September 2021
+
     """
     print("Welcome to the HI - LO game")
     turns = 6
